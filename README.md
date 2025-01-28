@@ -1,8 +1,5 @@
 # Online-Notice-Board-Application-
-Online Notice Board
-
-An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time. <h1>Online Notice Board</h1>
-        <p>An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time.</p>
+<p>An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time.</p>
  <h2>Table of Contents</h2>
         <ul>
             <li>Features</a></li>
