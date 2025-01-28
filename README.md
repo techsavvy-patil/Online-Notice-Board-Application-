@@ -1,41 +1,9 @@
 # Online-Notice-Board-Application-
 Online Notice Board
 
-An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time.
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Notice Board</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <style>
-        body {
-            padding-top: 20px;
-            padding-bottom: 20px;
-        }
-        .container {
-            max-width: 800px;
-        }
-        .logo {
-            max-width: 100px;
-            margin-bottom: 20px;
-        }
-        pre {
-            background-color: #f8f9fa;
-            padding: 15px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="path_to_logo.png" alt="Project Logo" class="logo">
-        <h1>Online Notice Board</h1>
+An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time. <h1>Online Notice Board</h1>
         <p>An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time.</p>
-
-        <h2>Table of Contents</h2>
+ <h2>Table of Contents</h2>
         <ul>
             <li><a href="#features">Features</a></li>
             <li><a href="#technologies-used">Technologies Used</a></li>
@@ -45,8 +13,7 @@ An Online Notice Board application designed to streamline the creation, manageme
             <li><a href="#license">License</a></li>
             <li><a href="#acknowledgements">Acknowledgements</a></li>
         </ul>
-
-        <h2 id="features">Features</h2>
+<h2 id="features">Features</h2>
         <ul>
             <li><strong>User Authentication:</strong> Secure login system ensuring authorized access for administrators and users.</li>
             <li><strong>Notice Management:</strong> Administrators can create, edit, and delete notices, categorizing them for targeted audiences.</li>
@@ -54,8 +21,7 @@ An Online Notice Board application designed to streamline the creation, manageme
             <li><strong>Search Functionality:</strong> Allows users to search for specific notices using keywords.</li>
             <li><strong>Database Integration:</strong> Employs MySQL to store user information and notice data efficiently.</li>
         </ul>
-
-        <h2 id="technologies-used">Technologies Used</h2>
+<h2 id="technologies-used">Technologies Used</h2>
         <ul>
             <li><strong>Frontend:</strong>
                 <ul>
@@ -72,8 +38,7 @@ An Online Notice Board application designed to streamline the creation, manageme
                 </ul>
             </li>
         </ul>
-
-        <h2 id="installation">Installation</h2>
+<h2 id="installation">Installation</h2>
         <ol>
             <li><strong>Clone the Repository:</strong>
                 <pre><code>git clone https://github.com/your-username/online-notice-board.git
@@ -105,7 +70,6 @@ define('DB_NAME', 'notice_board');
                 </ul>
             </li>
         </ol>
-
         <h2 id="usage">Usage</h2>
         <h3>Administrator:</h3>
         <ul>
@@ -119,8 +83,7 @@ define('DB_NAME', 'notice_board');
             <li>View the list of notices categorized for easy navigation.</li>
             <li>Use the search functionality to find specific notices.</li>
         </ul>
-
-        <h2 id="contributing">Contributing</h2>
+ <h2 id="contributing">Contributing</h2>
         <p>Contributions are welcome! Please follow these steps:</p>
         <ol>
             <li>Fork the repository.</li>
@@ -130,11 +93,9 @@ define('DB_NAME', 'notice_board');
             <li>Open a pull request.</li>
         </ol>
         <p>For major changes, please open an issue first to discuss what you would like to change.</p>
-
         <h2 id="license">License</h2>
         <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-        <h2 id="acknowledgements">Acknowledgements</h2>
+<h2 id="acknowledgements">Acknowledgements</h2>
         <ul>
             <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
             <li><a href="https://fontawesome.com/">Font Awesome</a></li>
