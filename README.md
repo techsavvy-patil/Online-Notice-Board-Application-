@@ -5,13 +5,13 @@ An Online Notice Board application designed to streamline the creation, manageme
         <p>An Online Notice Board application designed to streamline the creation, management, and dissemination of notices within organizations such as schools, colleges, or offices. This web-based platform provides a centralized system where administrators can post announcements, and users can access them in real-time.</p>
  <h2>Table of Contents</h2>
         <ul>
-            <li><a href="#features">Features</a></li>
-            <li><a href="#technologies-used">Technologies Used</a></li>
-            <li><a href="#installation">Installation</a></li>
-            <li><a href="#usage">Usage</a></li>
-            <li><a href="#contributing">Contributing</a></li>
-            <li><a href="#license">License</a></li>
-            <li><a href="#acknowledgements">Acknowledgements</a></li>
+            <li>Features</a></li>
+            <li>Technologies Used</a></li>
+            <li>Installation</a></li>
+            <li>Usage</a></li>
+            <li>Contributing</a></li>
+            <li>License</a></li>
+            <li>Acknowledgements</a></li>
         </ul>
 <h2 id="features">Features</h2>
         <ul>
@@ -92,13 +92,3 @@ define('DB_NAME', 'notice_board');
             <li>Push to the branch: <code>git push origin feature/YourFeature</code></li>
             <li>Open a pull request.</li>
         </ol>
-        <p>For major changes, please open an issue first to discuss what you would like to change.</p>
-        <h2 id="license">License</h2>
-        <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-<h2 id="acknowledgements">Acknowledgements</h2>
-        <ul>
-            <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
-            <li><a href="https://fontawesome.com/">Font Awesome</a></li>
-            <li><a href="https://jquery.com/">jQuery</a></li>
-        </ul>
-    </ 
